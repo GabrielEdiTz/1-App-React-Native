@@ -1,8 +1,8 @@
-# FazendaApp - Aplicativo React Native
+# 🚜 FazendaApp - Aplicativo React Native
 
 Bem-vindo ao repositório do FazendaApp, meu primeiro projeto React Native desenvolvido durante o curso da Alura! Este aplicativo simples visa mostrar informações sobre a venda de uma fazenda através de uma tela estática.
 
-## Sobre o Projeto
+## Sobre o Projeto 🌱
 
 O FazendaApp é um aplicativo React Native desenvolvido como parte do curso da Alura, proporcionando uma introdução prática ao desenvolvimento de aplicativos móveis com essa tecnologia. A aplicação consiste em uma tela estática que exibe informações relacionadas à venda de uma fazenda.
 
@@ -10,7 +10,7 @@ O FazendaApp é um aplicativo React Native desenvolvido como parte do curso da A
 
 - **Tela Inicial:** Apresenta informações sobre a venda da fazenda, como preço, nome da fazenda e outros detalhes relevantes.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🛠️
 
 - React Native
 
