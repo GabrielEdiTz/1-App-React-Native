@@ -1,20 +1,24 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import React from 'react';
+import { StatusBar, StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import { useFonts, Poppins_400Regular, Poppins_700Bold } from '@expo-google-fonts/poppins';
+
+import Cesta from './src/telas/cesta';
 
 export default function App() {
+
+  const [fonteCarregada] = useFonts({
+    "PoppinsRegular": Poppins_400Regular,
+    "PoppinsBold": Poppins_700Bold,
+  }); 
+
+  if(!fonteCarregada){
+    return <SafeAreaView />;
+  }
+  
   return (
-    <SafeAreaView style={styles.container}>
-      <Text>SEI LÁ qlo</Text>
-      <StatusBar style="auto"/>
+    <SafeAreaView>
+      <StatusBar />
+      <Cesta />
     </SafeAreaView>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
