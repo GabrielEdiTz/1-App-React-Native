@@ -1,8 +1,10 @@
 import React from 'react';
-import { StatusBar, StyleSheet, Text, View, SafeAreaView } from 'react-native';
+import { StatusBar, SafeAreaView } from 'react-native';
 import { useFonts, Poppins_400Regular, Poppins_700Bold } from '@expo-google-fonts/poppins';
 
-import Cesta from './src/telas/cesta';
+import Cesta from './src/telas/cesta/cesta';
+import mock from "./src/mocks/cesta";
+import AppLoading from 'expo-app-loading';
 
 export default function App() {
 
@@ -12,13 +14,13 @@ export default function App() {
   }); 
 
   if(!fonteCarregada){
-    return <SafeAreaView />;
+    return <AppLoading />;
   }
   
   return (
     <SafeAreaView>
       <StatusBar />
-      <Cesta />
+      <Cesta {...mock} />
     </SafeAreaView>
   );
 }
