@@ -3,8 +3,9 @@ import {SafeAreaView, Image, StyleSheet} from "react-native";
 
 import Texto from "../../../components/texto"
 import logo from '../../../../assets/logo.png';
+import Botao from '../../../components/botao';
 
-export default function Detalhes({ nome, nomeFazenda, descricao, preco}) {
+export default function Detalhes({ nome, nomeFazenda, descricao, preco, botao}) {
     return <>
         <Texto style={estilos.nome}>{ nome }</Texto>
         <SafeAreaView style={estilos.fazenda}>
@@ -13,6 +14,8 @@ export default function Detalhes({ nome, nomeFazenda, descricao, preco}) {
         </SafeAreaView>
         <Texto style={estilos.descricao}>{ descricao }</Texto>
         <Texto style={estilos.precos}>{ preco }</Texto>
+
+        <Botao botao={ botao } />
     </>
 }
 
