@@ -47,8 +47,7 @@ Contributions are welcome! If you find bugs, improvements, or new features you w
 
 ---
 
-------------------------------------------------------------------------------
-
+# Em português
 # 🚜 FazendaApp - Aplicativo React Native
 
 Bem-vindo ao repositório do FazendaApp, meu primeiro projeto React Native desenvolvido durante o curso da Alura! Este aplicativo simples visa mostrar informações sobre a venda de uma fazenda através de uma tela estática.
