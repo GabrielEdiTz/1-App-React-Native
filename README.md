@@ -1,3 +1,54 @@
+# 🚜 FarmApp - React Native Application
+
+Welcome to the repository of FarmApp, my first React Native project developed during the Alura course! This simple application aims to display information about the sale of a farm through a static screen.
+
+## About the Project 🌱
+
+FarmApp is a React Native application developed as part of the Alura course, providing a practical introduction to mobile app development with this technology. The application consists of a static screen that displays information related to the sale of a farm.
+
+## Features
+
+- **Home Screen:** Presents information about the farm sale, such as price, farm name, and other relevant details.
+
+## Technologies Used 🛠️
+
+- React Native
+
+## Getting Started
+
+Follow these instructions to start the project on your local machine:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/farm-app.git
+    cd farm-app
+    ```
+
+2. **Install dependencies:**
+    ```bash
+    npm install
+    # or
+    yarn install
+    ```
+
+3. **Start the application:**
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
+
+4. **Run on Emulator or Physical Device:**
+    - Follow the instructions displayed in the terminal after the initialization to run the application on the emulator or a physical device.
+
+## Contributions
+
+Contributions are welcome! If you find bugs, improvements, or new features you would like to add, feel free to open an [issue](https://github.com/your-username/farm-app/issues) or submit a [pull request](https://github.com/your-username/farm-app/pulls).
+
+---
+
+------------------------------------------------------------------------------
+
 # 🚜 FazendaApp - Aplicativo React Native
 
 Bem-vindo ao repositório do FazendaApp, meu primeiro projeto React Native desenvolvido durante o curso da Alura! Este aplicativo simples visa mostrar informações sobre a venda de uma fazenda através de uma tela estática.
