@@ -1,36 +1,27 @@
-# 🚀 OrgsHooks - React Native Application
+# 🚜 FarmApp - React Native Application
 
-Welcome to the repository of OrgsHooks, a React Native application developed during the Alura course. This app is designed to showcase information about rural producers, featuring dynamic details such as names, random distance in meters, and randomized star ratings.
+Welcome to the repository of FarmApp, my first React Native project developed during the Alura course! This simple application aims to display information about the sale of a farm through a static screen.
 
-## About the Project 🌐
+## About the Project 🌱
 
-OrgsHooks is the result of a React Native development journey undertaken during the Alura course. The application focuses on presenting information about various rural producers, providing an interactive experience with elements randomized to simulate real-world data scenarios.
+FarmApp is a React Native application developed as part of the Alura course, providing a practical introduction to mobile app development with this technology. The application consists of a static screen that displays information related to the sale of a farm.
 
-## Features ✨
+## Features
 
-- **Producer Details:** Explore information about different rural producers, including their names.
-- **Random Distance:** Experience dynamic distance values measured in meters for each producer.
-- **Randomized Star Ratings:** View randomized star ratings for producers, offering a diverse range of evaluation scenarios.
+- **Home Screen:** Presents information about the farm sale, such as price, farm name, and other relevant details.
 
 ## Technologies Used 🛠️
 
 - React Native
-- React Hooks
 
-## Getting Started 🚀
+## Getting Started
 
-Follow these instructions to set up and run the OrgsHooks application on your local machine:
-
-### Prerequisites
-
-Make sure you have Node.js, npm (Node Package Manager), and React Native CLI installed on your machine. You can find the installation instructions [here](https://reactnative.dev/docs/environment-setup).
-
-### Installation
+Follow these instructions to start the project on your local machine:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/orgs-hooks.git
-    cd orgs-hooks
+    git clone https://github.com/your-username/farm-app.git
+    cd farm-app
     ```
 
 2. **Install dependencies:**
@@ -41,74 +32,46 @@ Make sure you have Node.js, npm (Node Package Manager), and React Native CLI ins
     ```
 
 3. **Start the application:**
-    - For Android:
-      ```bash
-      npx react-native run-android
-      ```
-
-    - For iOS:
-      ```bash
-      npx react-native run-ios
-      ```
-       
-    - or
-
-      ```bash
-      npx react-native start
-      ```
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
 
 4. **Run on Emulator or Physical Device:**
-    - For Android, make sure you have an emulator running or connect a physical device with USB debugging enabled.
-    - For iOS, you need a Mac and Xcode installed.
+    - Follow the instructions displayed in the terminal after the initialization to run the application on the emulator or a physical device.
 
-5. **Troubleshooting:**
-    - If you encounter any issues, refer to the [React Native documentation](https://reactnative.dev/docs/environment-setup) for platform-specific setup.
+## Contributions
 
-6. **Enjoy OrgsHooks!**
-    - After successful execution, explore OrgsHooks features and enjoy the learning experience.
-
-## Contributions 👩‍💻👨‍💻
-
-Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features, please open an [issue](https://github.com/your-username/orgs-hooks/issues) or submit a [pull request](https://github.com/your-username/orgs-hooks/pulls).
-
-Feel free to explore, learn, and contribute to OrgsHooks. Happy coding!
+Contributions are welcome! If you find bugs, improvements, or new features you would like to add, feel free to open an [issue](https://github.com/your-username/farm-app/issues) or submit a [pull request](https://github.com/your-username/farm-app/pulls).
 
 ---
 
 # Em português
-# 🚀 OrgsHooks - Aplicativo React Native
+# 🚜 FazendaApp - Aplicativo React Native
 
-Bem-vindo ao repositório do OrgsHooks, um aplicativo React Native desenvolvido durante o curso da Alura. Este app foi criado para exibir informações sobre produtores rurais, apresentando detalhes dinâmicos como nomes, distância aleatória em metros e avaliações em estrelas randomicas.
+Bem-vindo ao repositório do FazendaApp, meu primeiro projeto React Native desenvolvido durante o curso da Alura! Este aplicativo simples visa mostrar informações sobre a venda de uma fazenda através de uma tela estática.
 
-## Sobre o Projeto 🌐
+## Sobre o Projeto 🌱
 
-O OrgsHooks é o resultado de uma jornada de desenvolvimento em React Native realizada durante o curso da Alura. A aplicação foca em apresentar informações sobre diversos produtores rurais, proporcionando uma experiência interativa com elementos randomizados para simular cenários de dados do mundo real.
+O FazendaApp é um aplicativo React Native desenvolvido como parte do curso da Alura, proporcionando uma introdução prática ao desenvolvimento de aplicativos móveis com essa tecnologia. A aplicação consiste em uma tela estática que exibe informações relacionadas à venda de uma fazenda.
 
-## Funcionalidades ✨
+## Funcionalidades
 
-- **Detalhes do Produtor:** Explore informações sobre diferentes produtores rurais, incluindo seus nomes.
-- **Distância Aleatória:** Experimente valores de distância dinâmicos medidos em metros para cada produtor.
-- **Avaliações em Estrelas Randomicas:** Visualize avaliações em estrelas randomicas para os produtores, oferecendo uma variedade de cenários de avaliação.
+- **Tela Inicial:** Apresenta informações sobre a venda da fazenda, como preço, nome da fazenda e outros detalhes relevantes.
 
 ## Tecnologias Utilizadas 🛠️
 
 - React Native
-- React Hooks
 
-## Como Iniciar 🚀
+## Como Iniciar
 
-Siga estas instruções para configurar e executar o aplicativo OrgsHooks em sua máquina local:
-
-### Pré-requisitos
-
-Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI instalados em sua máquina. Você pode encontrar as instruções de instalação [aqui](https://reactnative.dev/docs/environment-setup).
-
-### Instalação
+Siga estas instruções para iniciar o projeto em sua máquina local:
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/orgs-hooks.git
-    cd orgs-hooks
+    git clone https://github.com/seu-usuario/fazenda-app.git
+    cd fazenda-app
     ```
 
 2. **Instale as dependências:**
@@ -119,34 +82,17 @@ Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI in
     ```
 
 3. **Inicie o aplicativo:**
-    - Para Android:
-      ```bash
-      npx react-native run-android
-      ```
-
-    - Para iOS:
-      ```bash
-      npx react-native run-ios
-      ```
-
-    - ou
-
-      ```bash
-      npx react-native start
-      ```
+    ```bash
+    npm start
+    # ou
+    yarn start
+    ```
 
 4. **Execute no Emulador ou Dispositivo Físico:**
-    - Para Android, certifique-se de ter um emulador em execução ou conecte um dispositivo físico com a depuração USB ativada.
-    - Para iOS, você precisa de um Mac e do Xcode instalado.
+    - Siga as instruções exibidas no terminal após a inicialização para executar o aplicativo no emulador ou em um dispositivo físico.
 
-5. **Resolução de Problemas:**
-    - Se encontrar problemas, consulte a [documentação do React Native](https://reactnative.dev/docs/environment-setup) para configuração específica da plataforma.
+## Contribuições
 
-6. **Aprecie o OrgsHooks!**
-    - Após a execução bem-sucedida, explore as funcionalidades do OrgsHooks e aproveite a experiência de aprendizado.
+Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/fazenda-app/issues) ou enviar um [pull request](https://github.com/seu-usuario/fazenda-app/pulls).
 
-## Contribuições 👩‍💻👨‍💻
-
-Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões de melhorias ou quiser adicionar novos recursos, abra uma [issue](https://github.com/seu-usuario/orgs-hooks/issues) ou envie uma [pull request](https://github.com/seu-usuario/orgs-hooks/pulls).
-
-Sinta-se à vontade para explorar, aprender e contribuir para o OrgsHooks. Boa codificação!
+---
