@@ -50,6 +50,12 @@ Make sure you have Node.js, npm (Node Package Manager), and React Native CLI ins
       ```bash
       npx react-native run-ios
       ```
+       
+    - or
+
+      ```bash
+      npx react-native start
+      ```
 
 4. **Run on Emulator or Physical Device:**
     - For Android, make sure you have an emulator running or connect a physical device with USB debugging enabled.
@@ -123,7 +129,7 @@ Certifique-se de ter o Node.js, npm (Node Package Manager) e React Native CLI in
       npx react-native run-ios
       ```
 
-      ou
+    - ou
 
       ```bash
       npx react-native start
