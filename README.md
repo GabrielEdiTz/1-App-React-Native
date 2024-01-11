@@ -42,9 +42,11 @@ Follow these instructions to start the project on your local machine:
 4. **Run on Emulator or Physical Device:**
     - Follow the instructions displayed in the terminal after the initialization to run the application on the emulator or a physical device.
 
-## Contributions
+## Contributions 👩‍💻👨‍💻
 
-Contributions are welcome! If you find bugs, improvements, or new features you would like to add, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you find bugs, have suggestions for improvements, or want to add new features, please open an issues or submit a pull request.
+
+Feel free to explore, learn, and contribute to FarmApp. Happy coding!
 
 ---
 
@@ -92,8 +94,10 @@ Siga estas instruções para iniciar o projeto em sua máquina local:
 4. **Execute no Emulador ou Dispositivo Físico:**
     - Siga as instruções exibidas no terminal após a inicialização para executar o aplicativo no emulador ou em um dispositivo físico.
 
-## Contribuições
+## Contribuições 👩‍💻👨‍💻
 
-Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões de melhorias ou quiser adicionar novos recursos, abra uma issue ou envie uma pull request.
+
+Sinta-se à vontade para explorar, aprender e contribuir para o FarmApp. Boa codificação!
 
 ---
