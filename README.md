@@ -20,7 +20,7 @@ Follow these instructions to start the project on your local machine:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/farm-app.git
+    git clone https://github.com/GabrielPradoAffonso/1-App-React-Native.git
     cd farm-app
     ```
 
@@ -70,7 +70,7 @@ Siga estas instruções para iniciar o projeto em sua máquina local:
 
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/fazenda-app.git
+    git clone https://github.com/GabrielPradoAffonso/1-App-React-Native.git
     cd fazenda-app
     ```
 
