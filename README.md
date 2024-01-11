@@ -21,7 +21,7 @@ Follow these instructions to start the project on your local machine:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/GabrielPradoAffonso/1-App-React-Native.git
-    cd farm-app
+    cd 1-App-React-Native
     ```
 
 2. **Install dependencies:**
@@ -43,7 +43,7 @@ Follow these instructions to start the project on your local machine:
 
 ## Contributions
 
-Contributions are welcome! If you find bugs, improvements, or new features you would like to add, feel free to open an [issue](https://github.com/your-username/farm-app/issues) or submit a [pull request](https://github.com/your-username/farm-app/pulls).
+Contributions are welcome! If you find bugs, improvements, or new features you would like to add, feel free to open an issue or submit a pull request.
 
 ---
 
@@ -71,7 +71,7 @@ Siga estas instruções para iniciar o projeto em sua máquina local:
 1. **Clone o repositório:**
     ```bash
     git clone https://github.com/GabrielPradoAffonso/1-App-React-Native.git
-    cd fazenda-app
+    cd 1-App-React-Native
     ```
 
 2. **Instale as dependências:**
@@ -93,6 +93,6 @@ Siga estas instruções para iniciar o projeto em sua máquina local:
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/fazenda-app/issues) ou enviar um [pull request](https://github.com/seu-usuario/fazenda-app/pulls).
+Contribuições são bem-vindas! Se você encontrar bugs, melhorias ou novas funcionalidades que gostaria de adicionar, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ---
