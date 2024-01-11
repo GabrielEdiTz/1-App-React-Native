@@ -13,6 +13,7 @@ FarmApp is a React Native application developed as part of the Alura course, pro
 ## Technologies Used 🛠️
 
 - React Native
+- Expo Go
 
 ## Getting Started
 
